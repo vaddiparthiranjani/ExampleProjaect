@@ -1,0 +1,11 @@
+origin_code,origin_airport,origin-city,origin_state,dest_code,dest_airport,dest_city,dest_state,count
+BQN,Rafael fernanzed Airport, Aquadilla,PR, MCO, Orlando International, Orlando, FL, 441
+PHL,Philadelphia international, Philadelphia,PA, MCO, Orlando International, Orlando, FL, 4869
+MCI,Kansas city international, Kansas city,MD, IAH, George Bush International, Huston, TX, 1698
+SPI, Abraham Lincon capital Airport, SpringField,IL, ORD, Chicago O'Hare, Chicago, IL, 998
+SNA,John wayne airport, Santa Ana, CA, PHX. Phenoix Sky Harbor, Pheonix, AZ, 3846
+LBB,Lubbock preston Smith, Lubbock,TX, DEN, Denver International, Denver, CO, 618
+ORD, Chicago O'Hare international, Chicago, IL,PDX, Portland International,Portland, OR, 2149
+EWR,Newark Liberty International, Newark,NJ,STT, Cyril E-King Airport, Charlotte Amalia, VI, 239
+ATL, Hartsfield-jacks on atlanta, Atlanta,GA,GSP, GreenVille-Spantanburg, Greer, SC, 2478
+
